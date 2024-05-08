@@ -1,0 +1,2 @@
+# ToDoList
+Develop a MERN stack  application using React, MongoDB, Node.js and Express.js to manage a todo list. Users should be able to perform CRUD operations on todo items, upload todo items from a CSV file, download the todo list in CSV format, and set a status flag for each todo item.
